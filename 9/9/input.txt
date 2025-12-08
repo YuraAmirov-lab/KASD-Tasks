@@ -1,0 +1,6 @@
+<html><head><title>Test</title></head>
+<BODY><div class="test"><H1>Заголовок</H1>
+<p>Текст</p></div></BODY></html>
+<PrIvet><test123></test123>
+<Invalid!tag><123invalid></123invalid>
+<div><span></span></div><DIV></DIV>
